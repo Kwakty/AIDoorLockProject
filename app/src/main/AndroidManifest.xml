@@ -31,6 +31,7 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <!-- 추가 activity 생성 예정 -->
     </application>
 
 </manifest>
